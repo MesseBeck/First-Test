@@ -1,2 +1,1 @@
-# First-Test
-A Simple Test For Git
+This is the application of the standard api library under the linux system, and the project includes the Standard Function of the C Language Library and the linux system call. It's easy to encapsulate the base function on the library function, so you can see it as a guide on how to use the library function. At the same time, the purpose of doing the project is to make a copy of the work using the function (not involved in business) and to be easy to use (if anyone sees it)
